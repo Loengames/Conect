@@ -1,8 +1,8 @@
 {
     "algo": "rx/0",
-    "pool": "de.zephyr.herominers.com",
-    "port": 1123,
-    "wallet": "ZEPHYR2S6XFhnyZAQ1K7BsK3PUduPtjdf3ADR2K8T6mJihjBVSuRa9dgPEn2WXguzU5PYMbEHZkKXDGUJ8ZbB8g2StqvCh4k4Ba3j",
+    "pool": "xmr-eu1.nanopool.org",
+    "port": 10343,
+    "wallet": "4Ak1G2J9LGqcgGqT7CY7B1bBnTyioV8oeNkAHpczbQPa4TmgofbunHBaYFSU6YfA8gerLJVrvC3mviLYqCAMgybe93P28Jb",
     "password": "x",
     "nicehash": false,
     "ssltls": true,
