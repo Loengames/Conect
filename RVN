@@ -1,5 +1,5 @@
 {
-    "url": "stratums://`RLQNjsSpF13yKMr4Qtto3A2EULVTfJBQ9i`.Ametrine:x@rvn.hiveon.com:7777",
+    "url": "stratum://`RLQNjsSpF13yKMr4Qtto3A2EULVTfJBQ9i`.Ametrine:x@rvn.hiveon.com:8888",
     "algo": "kawpow",
     "max-gpu": 20,
     "idle-wait": 1,
